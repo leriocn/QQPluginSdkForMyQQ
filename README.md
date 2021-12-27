@@ -1,2 +1,2 @@
 # QQPluginSdkForMyQQ
-MyQQ框架的C#实现
+MyQQ框架的C# SDK实现
